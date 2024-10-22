@@ -23,12 +23,12 @@ const Products = (props) => {
       <ul>
         {DUMMY_PRODUCTS.map((product) => (
            <ProductItem
-           key={product.id}
-           id={product.id}
-           title={product.title}
-           price={product.price}
-           description={product.description}
-         />
+            key={product.id}
+            id={product.id}
+            title={product.title}
+            price={product.price}
+            description={product.description}
+          />
         ))}
       </ul>
     </section>

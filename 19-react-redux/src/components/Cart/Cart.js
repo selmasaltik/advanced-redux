@@ -1,8 +1,10 @@
+import { useSelector } from 'react-redux';
+
 import Card from '../UI/Card';
 import CartItem from './CartItem';
 
 import classes from './Cart.module.css';
-import { useSelector } from 'react-redux';
+
 
 
 const Cart = (props) => {
