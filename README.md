@@ -3,7 +3,7 @@
 
 - Handling **Async Tasks** With Redux
 - Where To **Put Your Code**
-- The Redux **DevTools**
+- **The Redux DevTools**
 
 **Side Effects, Async Tasks & Redux**
 
