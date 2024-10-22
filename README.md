@@ -17,6 +17,8 @@ Reducers must be ***pure, side-effect free, synchronous*** functions!
 
 [Frontend Code Depends on Backend Code](https://www.canva.com/design/DAGUUwAmyhQ/XumdVlNxnzY1425rxmPiLA/view?utm_content=DAGUUwAmyhQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+[Firebase](https://firebase.google.com/)
+
 **Fat Reducers vs Fat Components vs Fat Actions**
 
 Where should your ***logic*** (=code) go?
